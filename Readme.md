@@ -1,4 +1,5 @@
-#FullThrottle
+# FullThrottle
+
 * Make migration of all models.
   ```
      $ python3 manage.py makemigrations
